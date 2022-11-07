@@ -5,9 +5,9 @@ Since microcontrollers are much more powerful and functional than AOI logic gate
 and take you a fraction of the time to completely duplicate it using an Arduino!
 
 ## Hardware Requirements (optional - only if you already have them!):
-Arduino
-7 Segment Display
-7 220-ohm Resistors
+one Arduino <br>
+one 7 Segment Display <br>
+seven 220-ohm Resistors
 
 ## Project Functional Requirements:
 Phase 1: Design the circuit and complete the coding on Tinkercad to duplicate the functional circuit you submitted for Project #2.  All the requirements are the same as project #2 in terms of displaying your output.
