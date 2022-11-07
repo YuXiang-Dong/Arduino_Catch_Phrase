@@ -1,6 +1,6 @@
 # Arduino_Catch_Phrase
 ## Description:
-The goal of this project is to re-make, and effectively redesign, the 2nd project we did this year.  Each of you chose between the DoB, OSIS & CatchPhrase projects.  
+The goal of this project is to re-make, and effectively redesign, the 2nd project we did this year: Catch_phrase.  
 Since microcontrollers are much more powerful and functional than AOI logic gates your design should be much more efficient -
 and take you a fraction of the time to completely duplicate it using an Arduino!
 
