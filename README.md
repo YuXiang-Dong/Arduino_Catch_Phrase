@@ -4,6 +4,8 @@ The goal of this project is to re-make, and effectively redesign, the 2nd projec
 Since microcontrollers are much more powerful and functional than AOI logic gates your design should be much more efficient -
 and take you a fraction of the time to completely duplicate it using an Arduino!
 
+Play my catch phrase project [here](https://www.tinkercad.com/things/41oGFU3P3qg-project2-remake/editel)
+
 ## Hardware Requirements (optional - only if you already have them!):
 one Arduino <br>
 one 7 Segment Display <br>
